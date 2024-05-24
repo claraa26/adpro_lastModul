@@ -15,3 +15,9 @@ Clara Sista Widhiastuti - 2206825782 <br>
 
 ### Deployment
 ![](https://imgur.com/UT4EE5u.jpg)
+
+### Componen Diagram
+![](images/1.png) 
+
+### Code Diagram
+![](images/2.png) 
