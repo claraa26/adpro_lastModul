@@ -15,3 +15,7 @@ Clara Sista Widhiastuti - 2206825782 <br>
 
 ### Deployment
 ![](https://imgur.com/UT4EE5u.jpg)
+
+### Component
+![image](https://github.com/claraa26/adpro_lastModul/assets/124903836/6d2e18fe-e358-4d53-a371-f09959a39e86)
+
