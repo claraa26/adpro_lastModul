@@ -15,3 +15,12 @@ Clara Sista Widhiastuti - 2206825782 <br>
 
 ### Deployment
 ![](https://imgur.com/bmsTnrj.jpg)
+
+
+### Shopping Cart (Clara Sista Widhiastuti)
+#### code diagram
+![](https://imgur.com/fPtVOOv.jpg)
+#### component diagram
+![](https://imgur.com/APTbSyN.jpg)
+
+
