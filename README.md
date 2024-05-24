@@ -24,7 +24,8 @@ Clara Sista Widhiastuti - 2206825782 <br>
 ![image](https://github.com/claraa26/adpro_lastModul/assets/124903836/8a2c11bb-d579-4068-848a-baa7ed3c5bbb)
 
 ##   Auth
-![image](https://github.com/claraa26/adpro_lastModul/assets/124903836/03f80682-4f9c-4926-adab-3eaff36f5c27)
+![image](https://github.com/claraa26/adpro_lastModul/assets/124903836/53d20070-798e-417f-b708-9dd9a14a1dc8)
+
 
 
 
