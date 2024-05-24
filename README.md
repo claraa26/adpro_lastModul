@@ -15,3 +15,9 @@ Clara Sista Widhiastuti - 2206825782 <br>
 
 ### Deployment
 ![](https://imgur.com/UT4EE5u.jpg)
+
+### Balance (Rayhan Adhisworo Jardine H)
+#### code diagram
+![](https://imgur.com/56NoDNA.jpg)
+#### component diagram
+![](https://imgur.com/APTbSyN.jpg)
