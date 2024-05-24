@@ -19,3 +19,12 @@ Clara Sista Widhiastuti - 2206825782 <br>
 ### Component
 ![image](https://github.com/claraa26/adpro_lastModul/assets/124903836/6d2e18fe-e358-4d53-a371-f09959a39e86)
 
+###  Code
+##   Supermarket
+![image](https://github.com/claraa26/adpro_lastModul/assets/124903836/8a2c11bb-d579-4068-848a-baa7ed3c5bbb)
+
+##   Auth
+![image](https://github.com/claraa26/adpro_lastModul/assets/124903836/03f80682-4f9c-4926-adab-3eaff36f5c27)
+
+
+
